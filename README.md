@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#My profile
+# My profile
 
-##What I'm currently working on
+## What I'm currently working on
 
 I am currently working on learning how to make Markdown files.
+
+## What I've previously worked on
+
+I previously worked on
